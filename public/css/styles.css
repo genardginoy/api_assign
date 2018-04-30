@@ -1,0 +1,36 @@
+/*********************************
+**************CSS*****************
+**********************************/
+
+
+.saved{
+ 	background-color:#7bc7de;
+}
+.headerButtons{
+	z-index:100;
+	margin:0 auto;
+	position: fixed;
+	background-color:#f1f1f1;
+	padding:10px;width:100%;
+}
+.viewSaveButton{
+	margin-left:100px;
+}
+.recordCount{
+	padding-left:10px;
+	font-weight:bold;
+	font-size:16px;
+}
+#msges{
+	text-align: center;
+}
+#msges > span{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+	color:green;
+}
+
+.courseDetails{
+	padding-top:55px;
+}
